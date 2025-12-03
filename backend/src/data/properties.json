@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Beautiful apartment in Paris",
+    "city": "Paris",
+    "price": 350000,
+    "surface": 75,
+    "description": "Luxury apartment with view on Eiffel Tower",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+    {
+        "id": "2",
+        "title": "Cozy house in Lyon",
+        "city": "Lyon",
+        "price": 450000,
+        "surface": 120,
+        "description": "Spacious house with garden",
+        "createdAt": "2024-02-15T00:00:00.000Z",
+        "updatedAt": "2024-02-15T00:00:00.000Z"
+    },  
+    {
+        "id": "3",
+        "title": "Modern studio in Marseille",
+        "city": "Marseille",
+        "price": 200000,
+        "surface": 40,
+        "description": "Studio apartment close to the beach",
+        "createdAt": "2024-03-10T00:00:00.000Z",
+        "updatedAt": "2024-03-10T00:00:00.000Z"
+    }
+        ,
+    {
+        "id": "4",
+        "title": "Charming villa in Nice",
+        "city": "Nice",
+        "price": 800000,
+        "surface": 200,
+        "description": "Villa with sea view and private pool",
+            
+        "createdAt": "2024-04-05T00:00:00.000Z",
+        "updatedAt": "2024-04-05T00:00:00.  000Z"
+    }               
+                         
+
+]
